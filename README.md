@@ -33,5 +33,5 @@ Just remember, [do less](https://www.youtube.com/watch?v=PKIpCPS-oZc)
 
 
 ### &nbsp;:paw_prints:&nbsp; Paws.
-Watch [this](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/workflow.mov) for how to start from scratch.
-Watch [this]() for how to make new files in an old folder
+- [x] Already linked folder to GitHub & want to make changes? Watch [this]()
+- [x] Starting from scratch? Watch [this](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/workflow.mov)
