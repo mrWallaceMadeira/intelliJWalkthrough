@@ -9,7 +9,7 @@ Which leaves us with only a few steps to get started on each new lab...
   - [x] Open your Mod1Labs IntelliJ folder
   - [x] Create a new Java Class & edit the configurations properly
   - [x] Find the associated instructions / starter code in my [Mod1Labs repo](https://github.com/mrWallaceMadeira/Mod1Labs)
-  - [x] Copy/Paste into your new class & start `coding`
+  - [x] Copy/paste into your new class & start `coding`
 
 ###### Starting a new project from scratch (i.e. challenge problems)
 To create an entirely new GitHub repo, we'll have to re-trace our steps from [yesterday's setup guide](https://github.com/mrWallaceMadeira/setupGuide).
@@ -33,4 +33,5 @@ Just remember, [do less](https://www.youtube.com/watch?v=PKIpCPS-oZc)
 
 
 ### &nbsp;:paw_prints:&nbsp; Paws.
-Watch [TODO]() for a visual representation of what I described above.
+Watch [this](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/workflow.mov) for how to start from scratch.
+Watch [this]() for how to make new files in an old folder
