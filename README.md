@@ -23,7 +23,7 @@ Using the git-grandpa model, there are 3 basic tasks our git-grandpa can do:
   - [x] prepare new files for saving with `git add`
     - Yes, a ridiculous step, I agree. It's like if grandpa-git has to move a book from the floor to shelf number 3, he's gotta pause at shelf 2 to rest.
   - [x] save new files with `git commit`
-  - [x] share new files with Mr.Wallace & the Internet (new band name?) with `git push`
+  - [x] share new files with Mr. Wallace & the Internet (new band name?) with `git push`
 
 ### A note
 All of this using command line and git may feel very foreign and unsettling to you.\
