@@ -12,9 +12,9 @@ Which leaves us with only a few steps to get started on each new lab...
   - [x] Copy/Paste into your new class & start `coding`
 
 ###### Starting a new project from scratch (i.e. challenge problems)
-To create an entirely new GitHub repo, we'll have to re-trace our steps from [yesterday's setup guide].
+To create an entirely new GitHub repo, we'll have to re-trace our steps from [yesterday's setup guide](https://github.com/mrWallaceMadeira/setupGuide).
   - Follow the steps titled "Creating your first IntelliJ project" and "Connecting your IntelliJ project to GitHub"
-Once you've created a new repo, named Mod1Challenge, par exemple, follow the above steps replacing Mod1Labs with Mod1Challenge
+  - Once you've created a new repo, named Mod1Challenge, par exemple, follow the above steps replacing Mod1Labs with Mod1Challenge
 
 ###### Saving stuff
 Think of git like your grandpa.\
