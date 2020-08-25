@@ -27,8 +27,8 @@ Using the git-grandpa model, there are 3 basic tasks our git-grandpa can do:
 
 ### A note
 All of this using command line and git may feel very foreign and unsettling to you.\
-That's ok. I ***still*** Google git commands, every day.\ 
-These processes and commands aren't things to be memorized or stressed over & you certainly won't be tested on them.
+That's ok. I ***still*** Google git commands, every day.\
+These processes and commands aren't things to be memorized or stressed over & you certainly won't be tested on them.\
 Just remember, [do less](https://www.youtube.com/watch?v=PKIpCPS-oZc)
 
 
